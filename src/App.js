@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './/macaquinho.jpg';
 import './App.css';
 
 function App() {
@@ -6,17 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
+        <p
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gema o nome do mago... Mark Zukenberg
-        </a>
+        Sorry I do not speak M-A-C-A-C-O.
+        </p>
       </header>
     </div>
   );
